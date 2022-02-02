@@ -1,0 +1,15 @@
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\bin\Debug\net6.0\rpg-dio.exe
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\bin\Debug\net6.0\rpg-dio.deps.json
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\bin\Debug\net6.0\rpg-dio.runtimeconfig.json
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\bin\Debug\net6.0\rpg-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\bin\Debug\net6.0\ref\rpg-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\bin\Debug\net6.0\rpg-dio.pdb
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.csproj.AssemblyReference.cache
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.AssemblyInfoInputs.cache
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.AssemblyInfo.cs
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\ref\rpg-dio.dll
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.pdb
+C:\Users\Guilherme\OneDrive\Área de Trabalho\rpg-dio\obj\Debug\net6.0\rpg-dio.genruntimeconfig.cache
